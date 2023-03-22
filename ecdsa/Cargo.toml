@@ -11,7 +11,7 @@ repository = "https://github.com/RustCrypto/signatures"
 readme = "README.md"
 categories = ["cryptography", "no-std"]
 keywords = ["crypto", "ecc", "nist", "secp256k1", "signature"]
-edition = "2021"
+edition = "2018"
 rust-version = "1.56"
 
 [dependencies]
